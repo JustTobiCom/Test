@@ -28,5 +28,7 @@ Tab2
 
 {% file src=".gitbook/assets/export.config.xml" caption="File" %}
 
+{% embed url="https://youtu.be/\_HjToekoEMk" %}
 
+{% embed url="http://www.yellow-bricks.com/2018/11/26/ssh-broken-pipe-osx/" %}
 
